@@ -1,0 +1,23 @@
+
+
+.textoresponsivo{
+    /* Define tamanho base */
+.textoresponsivo {
+    font-size: 1.25rem;
+}
+
+/* Ajuste para telas médias */
+@media (min-width: 768px) {
+    .textoresponsivo {
+        font-size: 1rem;
+    }
+}
+
+/* Ajuste para telas grandes */
+@media (min-width: 992px) {
+    .textoresponsivo {
+        font-size: 0.875rem;
+    }
+}
+}
+
